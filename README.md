@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liAESIRil
 - 👀 I’m interested in C, C++, C#, html, Python
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning React
 
 <!---
 liAESIRil/liAESIRil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
